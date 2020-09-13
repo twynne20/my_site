@@ -1,8 +1,15 @@
-- title: __home__
-  url:   /
+# - title: __home__
+#  url:   /
 
-- title: News
-  url:   /news/
+- title: Tyson Wynne
+  url: /
 
 - title: About
   url:   /about/
+
+- title: Projects
+  url:   /projects/
+
+
+- title: Notes
+  url:   /notes/

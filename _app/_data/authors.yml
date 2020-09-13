@@ -7,10 +7,10 @@
 # {{ author.web }}: used in atom feed
 # {{ author.twitter }}: used by Twitter Cards
 default:
-  name:         Tunghsiao Liu
-  email:        t@sparanoid.com
+  name:         Tyson Wynne
+  email:        wynnetyson0@gmail.com
   web:          https://sparanoid.com/
-  twitter:      tunghsiao
+  twitter:      tysonwynne_
 
 tester:
   name:         Tester
