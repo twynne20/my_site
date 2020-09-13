@@ -1,0 +1,15 @@
+{
+  "name": "Tyson Wynne",
+  "short_name": "AMSF",
+  "start_url": "/my_site/",
+  "display": "standalone",
+  "theme_color": "#00D3EA",
+  "background_color": "#fff",
+  "icons": [
+    {
+      "src": "/my_site/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

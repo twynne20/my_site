@@ -7,7 +7,7 @@
 # Jekyll basic configurations
 #
 source:         _app
-destination:    _site
+destination:    docs
 timezone:       America/Los_Angeles
 permalink:      /:title.html
 markdown:       kramdown
@@ -99,7 +99,7 @@ description:    Super-fast Jekyll framework
 # `/my-project`, without trailing slash.
 #
 # Default:      ""
-baseurl:        "my_site"
+baseurl:        "my-site"
 
 # Flatten base
 #
@@ -109,7 +109,7 @@ baseurl:        "my_site"
 # enable this option if you're using GitHub Pages.
 #
 # Default:      false
-flatten_base:   false
+flatten_base:   true
 
 # CSS path used in templates
 #
